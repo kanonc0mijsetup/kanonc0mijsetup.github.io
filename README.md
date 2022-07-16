@@ -2,8 +2,7 @@
 
 [![Canon.com/ijsetup](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Canon Printer Setup delivers amazing printing quality. Simply click on Canon Pixma official website to get the complete information of the Canon Printer Software. The Canon Pixma is the procedure to connect your printer to the other devices using a wireless connection through **[canon.com/ijsetup](https://kanonc0mijsetup.github.io/)
-**. When the network connection is made with the canon printer then you can take print from your devices such as smartphones, tablets, computers, laptops or other devices without using the USB cable.  
+Canon Printer Setup delivers amazing printing quality. Simply click on Canon Pixma official website to get the complete information of the Canon Printer Software. The Canon Pixma is the procedure to connect your printer to the other devices using a wireless connection through **[canon.com/ijsetup](https://kanonc0mijsetup.github.io/)**. When the network connection is made with the canon printer then you can take print from your devices such as smartphones, tablets, computers, laptops or other devices without using the USB cable.  
 
 ## How to check if your system is compatible with canon printer?
 
