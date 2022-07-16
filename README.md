@@ -7,8 +7,7 @@ Canon Printer Setup delivers amazing printing quality. Simply click on Canon Pix
 
 ## How to check if your system is compatible with canon printer?
 
-**_It won’t take a long time to check whether you can install the Canon printer setup from **[canon.com/ijsetup](https://kanonc0mijsetup.github.io/)
-** or not. Thus, simply see the below-mentioned system requirements for Canon printer software;_**
+**_It won’t take a long time to check whether you can install the Canon printer setup from **[canon.com/ijsetup](https://kanonc0mijsetup.github.io/)** or not. Thus, simply see the below-mentioned system requirements for Canon printer software;_**
 
 1. Windows XP, Windows Vista, Windows 8.1, 7.
 2. macOS Mojave, macOS High Sierra, macOS Sierra
